@@ -10,11 +10,11 @@
 		E25493731C4EB9DB004F145B /* NMPopUpViewCarth.h in Headers */ = {isa = PBXBuildFile; fileRef = E25493721C4EB9DB004F145B /* NMPopUpViewCarth.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E254937A1C4EB9DB004F145B /* NMPopUpViewCarth.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E254936F1C4EB9DB004F145B /* NMPopUpViewCarth.framework */; };
 		E254937F1C4EB9DB004F145B /* NMPopUpViewCarthTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E254937E1C4EB9DB004F145B /* NMPopUpViewCarthTests.swift */; };
-		E254938E1C4EBAF5004F145B /* PopUpViewControllerSwift.swift in Sources */ = {isa = PBXBuildFile; fileRef = E25493891C4EBAF5004F145B /* PopUpViewControllerSwift.swift */; };
-		E254938F1C4EBAF5004F145B /* PopUpViewController_iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = E254938A1C4EBAF5004F145B /* PopUpViewController_iPad.xib */; };
-		E25493901C4EBAF5004F145B /* PopUpViewController_iPhone6.xib in Resources */ = {isa = PBXBuildFile; fileRef = E254938B1C4EBAF5004F145B /* PopUpViewController_iPhone6.xib */; };
-		E25493911C4EBAF5004F145B /* PopUpViewController_iPhone6Plus.xib in Resources */ = {isa = PBXBuildFile; fileRef = E254938C1C4EBAF5004F145B /* PopUpViewController_iPhone6Plus.xib */; };
-		E25493921C4EBAF5004F145B /* PopUpViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = E254938D1C4EBAF5004F145B /* PopUpViewController.xib */; };
+		E25493F41C4ED2CB004F145B /* PopUpViewControllerSwift.swift in Sources */ = {isa = PBXBuildFile; fileRef = E25493EF1C4ED2CB004F145B /* PopUpViewControllerSwift.swift */; };
+		E25493F51C4ED2CB004F145B /* PopUpViewController_iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = E25493F01C4ED2CB004F145B /* PopUpViewController_iPad.xib */; };
+		E25493F61C4ED2CB004F145B /* PopUpViewController_iPhone6.xib in Resources */ = {isa = PBXBuildFile; fileRef = E25493F11C4ED2CB004F145B /* PopUpViewController_iPhone6.xib */; };
+		E25493F71C4ED2CB004F145B /* PopUpViewController_iPhone6Plus.xib in Resources */ = {isa = PBXBuildFile; fileRef = E25493F21C4ED2CB004F145B /* PopUpViewController_iPhone6Plus.xib */; };
+		E25493F81C4ED2CB004F145B /* PopUpViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = E25493F31C4ED2CB004F145B /* PopUpViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,11 +34,11 @@
 		E25493791C4EB9DB004F145B /* NMPopUpViewCarthTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NMPopUpViewCarthTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E254937E1C4EB9DB004F145B /* NMPopUpViewCarthTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NMPopUpViewCarthTests.swift; sourceTree = "<group>"; };
 		E25493801C4EB9DB004F145B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		E25493891C4EBAF5004F145B /* PopUpViewControllerSwift.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PopUpViewControllerSwift.swift; path = ../../NMPopUpView/NMPopUpView/PopUpViewControllerSwift.swift; sourceTree = "<group>"; };
-		E254938A1C4EBAF5004F145B /* PopUpViewController_iPad.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = PopUpViewController_iPad.xib; path = ../../NMPopUpView/NMPopUpView/PopUpViewController_iPad.xib; sourceTree = "<group>"; };
-		E254938B1C4EBAF5004F145B /* PopUpViewController_iPhone6.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = PopUpViewController_iPhone6.xib; path = ../../NMPopUpView/NMPopUpView/PopUpViewController_iPhone6.xib; sourceTree = "<group>"; };
-		E254938C1C4EBAF5004F145B /* PopUpViewController_iPhone6Plus.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = PopUpViewController_iPhone6Plus.xib; path = ../../NMPopUpView/NMPopUpView/PopUpViewController_iPhone6Plus.xib; sourceTree = "<group>"; };
-		E254938D1C4EBAF5004F145B /* PopUpViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = PopUpViewController.xib; path = ../../NMPopUpView/NMPopUpView/PopUpViewController.xib; sourceTree = "<group>"; };
+		E25493EF1C4ED2CB004F145B /* PopUpViewControllerSwift.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PopUpViewControllerSwift.swift; sourceTree = "<group>"; };
+		E25493F01C4ED2CB004F145B /* PopUpViewController_iPad.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = PopUpViewController_iPad.xib; sourceTree = "<group>"; };
+		E25493F11C4ED2CB004F145B /* PopUpViewController_iPhone6.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = PopUpViewController_iPhone6.xib; sourceTree = "<group>"; };
+		E25493F21C4ED2CB004F145B /* PopUpViewController_iPhone6Plus.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = PopUpViewController_iPhone6Plus.xib; sourceTree = "<group>"; };
+		E25493F31C4ED2CB004F145B /* PopUpViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = PopUpViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,12 +81,12 @@
 		E25493711C4EB9DB004F145B /* NMPopUpViewCarth */ = {
 			isa = PBXGroup;
 			children = (
-				E25493891C4EBAF5004F145B /* PopUpViewControllerSwift.swift */,
-				E254938A1C4EBAF5004F145B /* PopUpViewController_iPad.xib */,
-				E254938B1C4EBAF5004F145B /* PopUpViewController_iPhone6.xib */,
-				E254938C1C4EBAF5004F145B /* PopUpViewController_iPhone6Plus.xib */,
-				E254938D1C4EBAF5004F145B /* PopUpViewController.xib */,
 				E25493721C4EB9DB004F145B /* NMPopUpViewCarth.h */,
+				E25493EF1C4ED2CB004F145B /* PopUpViewControllerSwift.swift */,
+				E25493F01C4ED2CB004F145B /* PopUpViewController_iPad.xib */,
+				E25493F11C4ED2CB004F145B /* PopUpViewController_iPhone6.xib */,
+				E25493F21C4ED2CB004F145B /* PopUpViewController_iPhone6Plus.xib */,
+				E25493F31C4ED2CB004F145B /* PopUpViewController.xib */,
 				E25493741C4EB9DB004F145B /* Info.plist */,
 			);
 			path = NMPopUpViewCarth;
@@ -192,10 +192,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E254938F1C4EBAF5004F145B /* PopUpViewController_iPad.xib in Resources */,
-				E25493911C4EBAF5004F145B /* PopUpViewController_iPhone6Plus.xib in Resources */,
-				E25493901C4EBAF5004F145B /* PopUpViewController_iPhone6.xib in Resources */,
-				E25493921C4EBAF5004F145B /* PopUpViewController.xib in Resources */,
+				E25493F51C4ED2CB004F145B /* PopUpViewController_iPad.xib in Resources */,
+				E25493F71C4ED2CB004F145B /* PopUpViewController_iPhone6Plus.xib in Resources */,
+				E25493F61C4ED2CB004F145B /* PopUpViewController_iPhone6.xib in Resources */,
+				E25493F81C4ED2CB004F145B /* PopUpViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -213,7 +213,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E254938E1C4EBAF5004F145B /* PopUpViewControllerSwift.swift in Sources */,
+				E25493F41C4ED2CB004F145B /* PopUpViewControllerSwift.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
