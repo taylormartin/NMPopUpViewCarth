@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "CBD1FC7E28D965942A31F530C685B03596A32FA1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "CBD1FC7E28D965942A31F530C685B03596A32FA1" : 0,
+    "783CEBB0A3B54618F91EF41C848EED655C6810AD" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "76199E05-62DB-42A2-992C-8276BDE181C9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "CBD1FC7E28D965942A31F530C685B03596A32FA1" : "NMPopUpViewCarth\/",
+    "783CEBB0A3B54618F91EF41C848EED655C6810AD" : "NMPopUpView\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "NMPopUpViewCarth",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "NMPopUpViewCarth.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:makeandbuild\/NMPopUpView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "783CEBB0A3B54618F91EF41C848EED655C6810AD"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:taylormartin\/NMPopUpViewCarth.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CBD1FC7E28D965942A31F530C685B03596A32FA1"
+    }
+  ]
+}
